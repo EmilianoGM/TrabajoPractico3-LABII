@@ -1,0 +1,6 @@
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

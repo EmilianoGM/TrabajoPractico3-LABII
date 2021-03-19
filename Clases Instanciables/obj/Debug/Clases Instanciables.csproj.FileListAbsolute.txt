@@ -1,0 +1,26 @@
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\bin\Debug\Clases abstractas.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\bin\Debug\Clases abstractas.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\bin\Debug\Clases abstractas.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\bin\Debug\Clases abstractas.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

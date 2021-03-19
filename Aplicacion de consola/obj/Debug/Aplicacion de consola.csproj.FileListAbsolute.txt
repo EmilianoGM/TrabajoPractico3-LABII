@@ -1,0 +1,32 @@
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Aplicacion de consola.exe.config
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Aplicacion de consola.exe
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Aplicacion de consola.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Archivos.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Clases abstractas.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Clases Instanciables.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Excepciones.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Archivos.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Clases abstractas.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Clases Instanciables.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\bin\Debug\Excepciones.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\obj\Debug\Aplicacion de consola.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\obj\Debug\Aplicacion de consola.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\obj\Debug\Aplicacion de consola.csproj.CopyComplete
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\obj\Debug\Aplicacion de consola.exe
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Aplicacion de consola\obj\Debug\Aplicacion de consola.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Aplicacion de consola.exe.config
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Aplicacion de consola.exe
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Aplicacion de consola.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Archivos.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Clases abstractas.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Clases Instanciables.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Excepciones.dll
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Archivos.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Clases abstractas.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Clases Instanciables.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\bin\Debug\Excepciones.pdb
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\obj\Debug\Aplicacion de consola.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\obj\Debug\Aplicacion de consola.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\obj\Debug\Aplicacion de consola.csproj.CopyComplete
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\obj\Debug\Aplicacion de consola.exe
+C:\Users\mcmrb\Desktop\tps hoy\Trabajo practico 3\Aplicacion de consola\obj\Debug\Aplicacion de consola.pdb

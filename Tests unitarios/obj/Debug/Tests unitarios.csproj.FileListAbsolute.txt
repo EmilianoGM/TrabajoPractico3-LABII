@@ -1,0 +1,25 @@
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\obj\Debug\Tests unitarios.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\obj\Debug\Tests unitarios.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Tests unitarios.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Tests unitarios.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Archivos.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Clases abstractas.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Clases Instanciables.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Excepciones.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Archivos.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Clases abstractas.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Clases Instanciables.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Excepciones.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\obj\Debug\Tests unitarios.csproj.CopyComplete
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\obj\Debug\Tests unitarios.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Tests unitarios\obj\Debug\Tests unitarios.pdb

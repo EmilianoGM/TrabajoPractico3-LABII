@@ -1,0 +1,9 @@
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\bin\Debug\Clases abstractas.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\bin\Debug\Clases abstractas.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\bin\Debug\Excepciones.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\bin\Debug\Excepciones.pdb
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\obj\Debug\Clases abstractas.csprojAssemblyReference.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\obj\Debug\Clases abstractas.csproj.CoreCompileInputs.cache
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\obj\Debug\Clases abstractas.csproj.CopyComplete
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\obj\Debug\Clases abstractas.dll
+C:\Users\mcmrb\Desktop\Solucion TP3\Medina.Emiliano.2A.TP3\Clases abstractas\obj\Debug\Clases abstractas.pdb
